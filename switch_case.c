@@ -5,6 +5,8 @@ int main()
     int b = 50;
     int ch;
 
+    printf("A Value is : %d\n", a);
+    printf("B Value is : %d\n", b);
     printf(" 1 Addition \n");
     printf(" 2 Substraction \n");
     printf(" 3 Multiplication \n");
